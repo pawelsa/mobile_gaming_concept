@@ -62,7 +62,6 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
           ),
-          DraggableScrollableSheet(builder: null)
           Align(
             alignment: Alignment.bottomCenter,
             child: InfoSheet(),
